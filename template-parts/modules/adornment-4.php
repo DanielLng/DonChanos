@@ -1,0 +1,1 @@
+<img class="m-footer-adornment m-footer-adornment--menu" src="<?php echo get_template_directory_uri(); ?>/assets/general/barra-banderas-división-horizontal.png" alt="Adorno">
